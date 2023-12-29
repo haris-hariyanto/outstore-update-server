@@ -5,9 +5,9 @@
     "author_profile": "https://penglaris.id",
     "version": "0.1.1",
     "download_url": "https://raw.githubusercontent.com/haris-hariyanto/outstore-update-server/master/outstore.zip",
-    "requires": "6.0",
-    "tested": "6.0",
-    "requires_php": "8.1",
+    "requires": "5.9",
+    "tested": "5.9",
+    "requires_php": "8.0",
     "last_updated": "2023-12-30 03:00:00",
     "sections": {
         "description": "This is description",
